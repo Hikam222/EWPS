@@ -1,1 +1,1 @@
-# EWPS
+# Elastic Wastage Prediction System
